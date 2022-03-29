@@ -5,6 +5,8 @@
 #include <iostream>
 #include <sstream>
 
+// 핵심은 map을 쓸 줄 아냐 모르냐
+
 using namespace std;
 
 vector<int> solution(vector<string> id_list, vector<string> report, int k) {
